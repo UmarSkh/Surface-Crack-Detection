@@ -18,10 +18,12 @@ https://www.kaggle.com/datasets/arunrk7/surface-crack-detection
 
 
 ## Screenshots
-![Data Distribution](assets/screenshots/data_distribution.png)  
-![Training Loss](assets/screenshots/training_loss.png)  
+![Positive](assets/screenshots/positive.png)  
+![Negative](assets/screenshots/negative.png)  
+![Loss](assets/screenshots/loss.png)  
 ![Confusion Matrix](assets/screenshots/confusion_matrix.png)  
-![Prediction Example](assets/screenshots/prediction_example.png)  
+![Prediction Example 1](assets/screenshots/prediction_example_1.png)  
+![Prediction Example 2](assets/screenshots/prediction_example_2.png)  
 
 ## Tech Stack
 
